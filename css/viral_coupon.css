@@ -1,0 +1,33 @@
+#disc{
+			background-color:#EEEEEE;
+			border-radius: 6px;
+			width: 640px;
+			border: 1px;
+			border-color: black;
+			border-style: dashed;
+		}	
+#thank{
+	background-color:#EEEEEE;
+	border-radius: 6px;
+	width: 640px;
+	border: 1px;
+	border-color: black;
+	border-style: dashed;
+	padding-left:10px;
+	color:green;
+}
+#coupone{
+	margin-left: 10px;
+}
+#set{
+	margin-left: 131px;
+	margin-top: 10px;
+	width: 30px;
+}
+.ino_input label{
+	float:right !important;
+	background:red;
+}
+.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
+	display: none !important;
+}

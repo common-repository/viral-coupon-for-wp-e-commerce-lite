@@ -1,0 +1,6 @@
+1. Please upload the "viral_coupon" folder in the "plugins" folder of your website & activate the plugin.
+2. After activation, you will need to apply the necessary settings on the settings page of the plugin. The sharing box will not be visible on the checkout page unless the settings are applied.
+
+For more information, please refer to the "How-to Manual For Viral Coupon Plugin.pdf" file.
+
+For additional questions, you can contact: info@tychesoftwares.com
